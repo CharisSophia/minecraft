@@ -6,7 +6,7 @@ Once the Minecraft server is running, from the console, run the following comman
 /op CharisSophia
 /gamerule doDaylightCycle false
 /gamerule doFireTick false
-/gamerule doMobSpawning
+/gamerule doMobSpawning false
 /gamerule doWeatherCycle false
 /time set noon
 ```
