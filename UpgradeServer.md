@@ -42,12 +42,13 @@ ls -1 world*/datapacks/
 # get files
 # ----------
 cd ~/downloads
+rm *
 
-wget https://cdn.modrinth.com/data/1u6JkXh5/versions/DjiTrN5B/worldedit-mod-7.4.3-beta-01.jar
-wget https://cdn.modrinth.com/data/VoVJ47kN/versions/mBNoWFjz/BlazeandCave%27s%20Advancements%20Pack%201.20.3.zip
-wget https://cdn.modrinth.com/data/Qx9yFN48/versions/GMRG3QsC/BACAP_Enhanced_Discoveries_2.8.2.zip
-wget https://cdn.modrinth.com/data/82uI0waE/versions/kZI9C6BF/mob-heads-v4.6.4.jar
-wget https://cdn.modrinth.com/data/P7dR8mSH/versions/E1mjhYMF/fabric-api-0.150.0%2B26.1.2.jar
+wget https://cdn.modrinth.com/data/P7dR8mSH/versions/M8Kbv865/fabric-api-0.153.0%2B26.2.jar
+wget https://cdn.modrinth.com/data/VoVJ47kN/versions/Y2zZ5eSs/BlazeandCave%27s%20Advancements%20Pack%201.21.zip
+wget https://cdn.modrinth.com/data/Qx9yFN48/versions/QSDS5h77/BACAP_Enhanced_Discoveries_2.8.4.zip
+wget https://cdn.modrinth.com/data/82uI0waE/versions/mBjPwwW7/mob-heads-v5.0.0.jar
+wget https://cdn.modrinth.com/data/1u6JkXh5/versions/ESAHQFYo/worldedit-bukkit-7.4.4-beta-01.jar
 
 # ----------
 # mods
